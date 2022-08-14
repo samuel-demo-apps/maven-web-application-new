@@ -130,7 +130,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>/maven-web-application-new</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
