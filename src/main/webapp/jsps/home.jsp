@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/DayaTech.png" alt="" width="100">
+		<img src="images/DayaTech.PNG" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		DayaTech Solutions, 
